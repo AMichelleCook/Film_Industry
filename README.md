@@ -8,8 +8,8 @@
 
 # Conclusion
 
-##Limitations
+## Limitations
 
-##Recommendations
+## Recommendations
 
 ## Next Steps
